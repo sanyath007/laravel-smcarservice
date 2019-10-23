@@ -1,0 +1,188 @@
+body {
+    padding-right: 0px; 
+    padding-left: 0px; 
+    padding-bottom: 0px; 
+    margin: 0px; 
+    padding-top: 0px;
+    background-color: #ffffff;
+    height: 842px;
+}
+a:link {
+    color: #0000ff; 
+    text-decoration: none
+}
+a:visited {
+    color: #005ca2; 
+    text-decoration: none
+}
+a:active {
+    color: #0099ff; 
+    text-decoration: underline
+}
+a:hover {
+    color: #0099ff; 
+    text-decoration: underline
+}
+.underline {
+    font-weight: normal;
+    margin: 1px;
+    color: #0000ff;
+    border-top-style: none;
+    border-bottom: black 1px dotted;
+    font-family: "TH SarabunPSK";
+    border-right-style: none;
+    border-left-style: none;
+    height: 18px;
+    text-align: center
+}
+.underline-left {
+    font-weight: normal; 
+    margin: 1px; 
+    color: #0000ff; 
+    border-top-style: none; 
+    border-bottom: black 1px dashed; 
+    font-family: "TH SarabunPSK"; 
+    border-right-style: none; 
+    border-left-style: none; 
+    height: 18px; 
+    text-align: left
+}
+.formthaitext {
+    font-weight: bold; 
+    font-size: 15px; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.textform {
+    font-size: 11px; 
+    color: #000000; 
+    font-family: Verdana
+}
+.thaitext {
+    font-size: 16pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.thaitext-sm {
+    font-size: 12pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.headthaitext {
+    font-size: 15px; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.cordia-upc {
+    font-size: 12px; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.buntuekkorkuam {
+    font-size: 29pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight:bold;  
+    margin-left: -100px;
+}
+.txt-content {
+    font-size: 16pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK";
+}
+.trh1 {
+    height: 30px;
+}
+.trh0 {
+    height: 5px;
+}
+p {
+    font-size: 16pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight: normal;
+}
+.p16 {
+    font-size: 16pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight: bold;
+}
+.p18 {
+    font-size: 18pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight: bold;
+}
+.p20 {
+    font-size: 20pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight: bold;
+}
+.formnumber {
+    font-size: 11pt; 
+    color: #000000; 
+    font-family: "TH SarabunPSK"; 
+    font-weight: bold;
+    text-align: center;
+    border: 1px solid #000000;
+    padding: 0 5 0 5px;
+}
+.indent {
+    margin-left: 94px;
+}
+.indent2 {
+    margin-left: 30px;
+}
+.hasborder { 
+    border:1px solid #F00;  
+}
+.table {
+    border: 1px solid #000000;
+    border-collapse: collapse;
+}
+
+p.mso-normal, li.mso-normal, div.mso-normal,span.mso-normal {
+    border-bottom: 1px dashed #000000;
+    margin-top:0cm;
+    margin-right:0cm;
+    margin-bottom:10.0pt;
+    margin-left:0cm;
+    line-height:115%;
+    font-size:16pt;
+    font-family:"TH SarabunPSK";
+}
+.underline-tagp {
+    border-bottom: 1px dashed #000000; 
+    padding: 0px; 
+    margin:0px;
+    height: 20px
+}
+
+.datatable {
+    border-collapse: collapse; 
+    border: 1px solid black;
+    font-family:"TH SarabunPSK";
+    font-size:16pt;
+}
+.page {
+        margin: 0px;
+        /*height: 100%;*/
+        /*position: relative;*/
+}
+.page-layout {
+    width: 740px; 
+    margin-left: 30px; 
+    margin-right: 15px; 
+    margin-top: 0px; 
+    padding: 5px;
+}
+/*@media print {
+    body {
+        -webkit-print-color-adjust: exact;
+    }
+    .page {
+        page-break-before: always;
+    }
+}*/
